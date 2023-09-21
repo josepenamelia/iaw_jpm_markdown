@@ -2,7 +2,8 @@
 
 ## Ejemplos de Markdown
 
-Tengo que escribir un parrafo usando **negrita** , *en cursiva* y > 'en codigo'.
+Tengo que escribir un parrafo usando **negrita** , *en cursiva* y
+> en codigo.
 
 Tambien tengo que escribir un trozo de codigo:
 
